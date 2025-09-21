@@ -1,4 +1,4 @@
-# ASIO Plugin for Rift of the NecroDancer
+# ASIO Mod for Rift of the NecroDancer
 
 > [!NOTE]
 > ASIO requires a compatible audio device.
