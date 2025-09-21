@@ -7,7 +7,7 @@
 Quickly switch the game's audio between Windows WASAPI and ASIO (lower-latency). You can also override FMOD's DSP buffer length via config.
 
 # Install
-- Download the latest release and extract it into the game folder (where `RiftOfTheNecroDancer.exe` is).
+- Download the [latest release](https://github.com/exqt/RiftASIO/releases/download/v1/RiftASIO_v1+BepInEx.zip) and extract it into the game folder (where `RiftOfTheNecroDancer.exe` is).
 - Ensure the `BepInEx` folder is next to the game executable.
 
 # Usage
